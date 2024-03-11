@@ -1,11 +1,19 @@
-.App {
-  text-align: center;
+.App{
+  width: 100%;
+  height: 3000px;
+
+
 }
 :root{
   --black-color:#121214;
   --white-color:#f1f1f1;
   --green-color:#15b088;
   --gold-color:#ffcc00;
+  --black-background-header: rgba(18, 18, 20, .8);
+  --black-linear-background: linear-gradient(180deg, rgba(18, 18, 20, .68), transparent);
+  --background-color-goi-cuoc: rgba(255, 204, 0, .16);
+  --background-color-register: hsla(0, 0%, 100%, .1);
+  --background-color-hover-register: hsla(0, 0%, 100%, .2);
 }
 
 
